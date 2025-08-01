@@ -1,4 +1,4 @@
-# VAF: Verification and Attendance using Fingerprint
+# VAF Device
 
  **VAF (Verification and Attendance using Fingerprint)** is a life-saving biometric authentication device designed for rapid identification of accident victims in emergency medical situations. The core objective of VAF is to provide **immediate access to critical patient information** such as **name, age, blood group, and emergency contact number** using fingerprint recognition — especially in scenarios where the victim is unconscious and unable to communicate.
 
